@@ -164,7 +164,7 @@ The `random` module is part of Python's standard library, so there is no need to
 1. پایتون 3.x را از [سایت رسمی](https://www.python.org/downloads/) دانلود کنید.
 2. دستورالعمل‌های نصب برای سیستم‌عامل خود را دنبال کنید (ویندوز، macOS، لینوکس).
 3. برای بررسی نصب پایتون، ترمینال  Command Prompt را باز کرده و دستور زیر را وارد کنید:
-4. `python --version` یا `python3 --version`
+4. `python --version` یا ```python3 --version```
 اگر پایتون به درستی نصب شده باشد، نسخه آن نمایش داده می‌شود.
 
 ### نصب ماژول Random:
