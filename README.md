@@ -76,7 +76,8 @@ To run the **Number Guessing Game**, you need Python 3.x installed on your syste
 1. Download Python 3.x from the [official website](https://www.python.org/downloads/).
 2. Follow the installation instructions for your operating system (Windows, macOS, Linux).
 3. Verify the installation by opening a terminal or command prompt and typing:
-or If Python is installed correctly, it will show the installed version.
+4. `python --version` or `python3 --version`
+If Python is installed correctly, it will show the installed version.
 
 ### Installing the Random Module:
 
@@ -163,7 +164,8 @@ The `random` module is part of Python's standard library, so there is no need to
 1. پایتون 3.x را از [سایت رسمی](https://www.python.org/downloads/) دانلود کنید.
 2. دستورالعمل‌های نصب برای سیستم‌عامل خود را دنبال کنید (ویندوز، macOS، لینوکس).
 3. برای بررسی نصب پایتون، ترمینال  Command Prompt را باز کرده و دستور زیر را وارد کنید:
-یااگر پایتون به درستی نصب شده باشد، نسخه آن نمایش داده می‌شود.
+4. `python --version` یا `python3 --version`
+اگر پایتون به درستی نصب شده باشد، نسخه آن نمایش داده می‌شود.
 
 ### نصب ماژول Random:
 
